@@ -104,7 +104,7 @@ Hook scripts in `src/hooks/` are standalone Node.js scripts (no iii-sdk import).
 
 ## Testing
 
-- All tests must pass before PR: `npm test` (950+ tests)
+- All tests must pass before PR: `npm test` (1081+ tests)
 - Mock pattern: `vi.mock("iii-sdk")` with mock `sdk.trigger`, `kv.get/set/list`
 - Test files go in `test/` with `.test.ts` extension
 - Follow existing patterns in `test/crystallize.test.ts` for function tests
@@ -116,4 +116,4 @@ Hook scripts in `src/hooks/` are standalone Node.js scripts (no iii-sdk import).
 - 6 MCP resources, 3 MCP prompts
 - 12 hooks, 4 skills
 - 50+ iii functions
-- 950+ tests
+- 1081+ tests
