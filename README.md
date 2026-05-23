@@ -372,7 +372,7 @@ agentmemory connect claude-code   # wire one agent
 agentmemory doctor             # interactive diagnostics + fix prompts
 ```
 
-From v0.9.16 onward, the first npx run prompts you to install globally inline — answer `Y` once and you're set. If you skip, fall back to either of these for a fresh fetch:
+From v0.9.21 onward, the first npx run prompts you to install globally inline — answer `Y` once and you're set. If you skip, fall back to either of these for a fresh fetch:
 
 ```bash
 npx -y @agentmemory/agentmemory@latest                 # forces latest from npm (cross-platform)
