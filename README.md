@@ -1284,3 +1284,6 @@ npm run test:integration  # API tests (requires running services)
 <h2 id="license"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/light/section-license.svg"><img src="assets/tags/section-license.svg" alt="License" height="32" /></picture></h2>
 
 [Apache-2.0](LICENSE)
+
+## Contributing
+PRs welcome!
