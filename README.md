@@ -1287,3 +1287,4 @@ npm run test:integration  # API tests (requires running services)
 
 ## Contributing
 PRs welcome!
+\n## Improvements\n- Enhanced error handling for edge cases\n- Added null checks in core retrieval
