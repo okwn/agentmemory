@@ -113,3 +113,6 @@ Do not open a public issue for a security report. See [SECURITY.md](./SECURITY.m
 
 - Implementation questions: open a GitHub Discussion.
 - Governance questions: open an issue labeled `governance`. See [GOVERNANCE.md](./GOVERNANCE.md).
+
+## Contributors
+- Documentation improvements (2026)
